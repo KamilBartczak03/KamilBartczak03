@@ -1,4 +1,3 @@
-<!-- Your Name -->
 ## Hi there, I'm Kamil 👋
 
 ### 🚀 About Me
@@ -15,5 +14,4 @@ I'm a passionate developer who enjoys coding and building things that live on th
  ![Supabase](https://img.shields.io/badge/supabase-35495E?style=flat&logo=supabase)
  ![MongoDB](https://img.shields.io/badge/mongodb-35495E?style=flat&logo=mongodb)
 
-### 📫 Get in Touch
-- Email: kamilbartczak2023@gmail.com
+###### kamilbartczak2023@gmail.com
