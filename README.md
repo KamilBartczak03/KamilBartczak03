@@ -1,16 +1,21 @@
-### Hi there 👋
+<!-- Your Name -->
+## Hi there, I'm Kamil 👋
 
-<!--
-**KamilBartczak03/KamilBartczak03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a passionate developer who enjoys coding and building things that live on the internet.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Linear algebra and ML**
+- 💼 Open to freelance opportunities and collaborations.
+- 🎓 Studied Computer Science at [University Name](https://universitywebsite.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Stack
+ ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js)
+ ![Nuxt](https://img.shields.io/badge/nuxt.js-35495E?style=flat&logo=nuxtdotjs)
+ ![Typescript](https://img.shields.io/badge/typescript-35495E?style=flat&logo=typescript)
+ ![Deno](https://img.shields.io/badge/deno-35495E?style=flat&logo=deno)
+ ![Node.js](https://img.shields.io/badge/node.js-35495E?style=flat&logo=node.js)
+ ![Supabase](https://img.shields.io/badge/supabase-35495E?style=flat&logo=supabase)
+ ![MongoDB](https://img.shields.io/badge/mongodb-35495E?style=flat&logo=mongodb)
+
+### 📫 Get in Touch
+- Email: kamilbartczak2023@gmail.com
