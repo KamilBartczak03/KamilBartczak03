@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I'm a passionate developer who enjoys coding and building things that live on the internet.
 
-- 🌱 I’m currently learning **Linear algebra and ML**
+- 🌱 I’m currently exploring **ML technologies**
 
 ### 🔧 Stack
  ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js)
