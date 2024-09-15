@@ -1,7 +1,7 @@
 ## Hi there, I'm Kamil 👋
 
 ### 🚀 About Me
-I'm a passionate developer who enjoys coding and building things that live on the internet.
+Passionate developer exploring the world of Machine Learning and web technologies. I vibe to techno and unwind with action-packed audiobooks.
 
 - 🌱 I’m currently exploring **ML technologies**
 
